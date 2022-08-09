@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SECRET
 - 🌱 I’m currently learning HOW TO LIVE
 - 📫 How to reach me: me@peymanmajidi.ir
-- ⚡ Fun fact: **If Github close my account again I will switch to Gitlab 4 ever**
+- ⚡ Fun fact: **If Github closed my account again I will switch to Gitlab 4 ever**
 
 <img align="right"  src="https://user-images.githubusercontent.com/110537772/183570353-9fa52c9e-41da-4668-8e2c-e42b1aaa5e9f.gif">
 
@@ -32,6 +32,6 @@ Social Medias:
 Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
 ```diff
-! If Github close my account again I will switch to Gitlab 4 ever
+! If Github closed my account again I will switch to Gitlab 4 ever
 ```
 
