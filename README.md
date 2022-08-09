@@ -4,8 +4,6 @@ Hey, I am Peyman, THE PROGRAMMER;
 I do like programming💌, and I like to share my ideas with others. My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place, pixel by pixel, line of code by line of code, experience by experience. With passion!   
 
 
-<img align="right"  src="https://user-images.githubusercontent.com/110537772/183568628-4556980b-2773-4e87-a9d5-1e2be10fd266.gif">
-
 
 Here are some ideas to get you started:   
 
@@ -14,11 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@peymanmajidi.ir
 - ⚡ Fun fact: **If Github close my account again I will switch to Gitlab 4 ever**
 
+<img align="right"  src="https://user-images.githubusercontent.com/110537772/183568628-4556980b-2773-4e87-a9d5-1e2be10fd266.gif">
 
 
 Find My VIDEOS here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
 - [Aparat](https://www.aparat.com/peyman.majidi)  🎥
+
 
 Support/Donate:   
 - https://payping.ir/@peymanmajidi
