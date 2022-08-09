@@ -8,13 +8,12 @@ I do like programming💌, and I like to share my ideas with others. My vision i
 
 
 
-
 Here are some ideas to get you started:   
 
 - 🔭 I’m currently working on SECRET
 - 🌱 I’m currently learning HOW TO LIVE
 - 📫 How to reach me: me@peymanmajidi.ir
-- ⚡ Fun fact: **⚠️ If Github close my account again I will switch to Gitlab 4 ever**
+- ⚡ Fun fact: **If Github close my account again I will switch to Gitlab 4 ever**
 
 
 
