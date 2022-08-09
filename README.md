@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@peymanmajidi.ir
 - ⚡ Fun fact: **If Github close my account again I will switch to Gitlab 4 ever**
 
-<img align="right"  src="https://user-images.githubusercontent.com/110537772/183568628-4556980b-2773-4e87-a9d5-1e2be10fd266.gif">
+<img align="right"  src="https://user-images.githubusercontent.com/110537772/183570353-9fa52c9e-41da-4668-8e2c-e42b1aaa5e9f.gif">
 
 
 Find My VIDEOS here:
