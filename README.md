@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@peymanmajidi.ir
 - ⚡ Fun fact: **If Github closed my account again I will switch to Gitlab 4 ever**
 
-<img align="right"  src="https://user-images.githubusercontent.com/110537772/183570353-9fa52c9e-41da-4668-8e2c-e42b1aaa5e9f.gif">
-
-
 Find My VIDEOS here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
 - [Aparat](https://www.aparat.com/peyman.majidi)  🎥
