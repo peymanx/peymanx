@@ -1,31 +1,34 @@
-### Hi there 👋
+## Hey, I am PEYMANx 
+This is my new Github page
+I do like programming, & I like to share my ideas with others. My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place, pixel by pixel, line of code by line of code, experience by experience. With passion!   
 
-Hey, I am Peyman, THE PROGRAMMER;   
-I do like programming💌, and I like to share my ideas with others. My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place, pixel by pixel, line of code by line of code, experience by experience. With passion!   
-
-```
-$ whoami
-        
- ██▓███  ▓█████▓██   ██▓ ███▄ ▄███▓ ▄▄▄      ███▄    █      ▒██   ██▒
-▓██░  ██▒▓█   ▀ ▒██  ██▒▓██▒▀█▀ ██▒▒████▄    ██ ▀█   █      ▒▒ █ █ ▒░
-▓██░ ██▓▒▒███    ▒██ ██░▓██    ▓██░▒██  ▀█▄ ▓██  ▀█ ██▒     ░░  █   ░
-▒██▄█▓▒ ▒▒▓█  ▄  ░ ▐██▓░▒██    ▒██ ░██▄▄▄▄██▓██▒  ▐▌██▒      ░ █ █ ▒ 
-▒██▒ ░  ░░▒████▒ ░ ██▒▓░▒██▒   ░██▒ ▓█   ▓██▒██░   ▓██░     ▒██▒ ▒██▒
-▒▓▒░ ░  ░░░ ▒░ ░  ██▒▒▒ ░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒░   ▒ ▒      ▒▒ ░ ░▓ ░
-░▒ ░      ░ ░  ░▓██ ░▒░ ░  ░      ░  ▒   ▒▒ ░ ░░   ░ ▒░     ░░   ░▒ ░
-░░          ░   ▒ ▒ ░░  ░      ░     ░   ▒     ░   ░ ░       ░    ░  
-            ░  ░░ ░            ░         ░  ░        ░       ░    ░  
-                ░ ░                                                    
-
-01010000100010101011001010011010100000101001110 01111000                 
-```
 
 Here are some ideas to get you started:   
 
 - 🔭 I’m currently working on SECRET
 - 🌱 I’m currently learning HOW TO LIVE
 - 📫 How to reach me: me@peymanmajidi.ir
-- ⚡ Fun fact: **If Github closed my account again I will switch to Gitlab 4 ever**
+- ⚡ Fun fact: **If Github suspended my account again I will switch to Gitlab 4 ever**
+
+
+
+```
+$ whoami
+                       ░                                                       
+ ██▓███  ▓█████▓██   ██▓ ███▄ ▄███▓ ▄▄▄      ███▄    █    ▒██   ██▒            
+▓██░  ██▒▓█   ▀ ▒██  ██▒▓██▒▀█▀ ██▒▒████▄    ██ ▀█   █    ▒▒ █ █ ▒░            
+▓██░ ██▓▒▒███    ▒██ ██░▓██    ▓██░▒██  ▀█▄ ▓██  ▀█ ██▒   ░░  █   ░            
+▒██▄█▓▒ ▒▒▓█  ▄  ░ ▐██▓░▒██    ▒██ ░██▄▄▄▄██▓██▒  ▐▌██▒    ░ █ █ ▒             
+▒██▒ ░  ░░▒████▒ ░ ██▒▓░▒██▒   ░██▒ ▓█   ▓██▒██░   ▓██░   ▒██▒ ▒██▒            
+▒▓▒░ ░  ░░░ ▒░ ░  ██▒▒▒ ░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒░   ▒ ▒    ▒▒ ░ ░▓ ░            
+░▒ ░      ░ ░  ░▓██ ░▒░ ░  ░      ░  ▒   ▒▒ ░ ░░   ░ ▒░   ░░   ░▒ ░            
+░░          ░   ▒ ▒ ░░  ░      ░     ░   ▒     ░   ░ ░     ░    ░              
+            ░  ░░ ░            ░         ░  ░        ░     ░    ░              
+                ░ ░                                                            
+                ░ ░                                                                                                                     
+
+01110000 01100101 01111001 01101101 01100001 01101110 01011000 
+```
 
 Find My VIDEOS here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
@@ -43,7 +46,5 @@ Social Medias:
 
 Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
-```diff
-! If Github closed my account again I will switch to Gitlab 4 ever
-```
+
 
