@@ -47,10 +47,11 @@ Support/Donate:
 - https://payping.ir/@peymanmajidi
 
 Social Medias:
-- [Github](https://github.com/peymanX)
+- [StackOverflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile)
 - [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
 - [Instagram](https://www.instagram.com/peymanmajidi.ir/)
 - [Facebook](https://www.facebook.com/Peymantv)
+- [Virgool](https://virgool.io/@peyman.majidi)
 
 Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
