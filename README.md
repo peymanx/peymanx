@@ -1,4 +1,6 @@
 
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
+
 ## Hey, I am PEYMANx 
 <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
 
