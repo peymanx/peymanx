@@ -37,19 +37,14 @@ $ whoami
 ```
 
 
-
+<a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="300px"
+src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 
 
 Find My VIDEOS here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
 - [Aparat](https://www.aparat.com/peyman.majidi)  🎥
-
-
-Support/Donate:   
-- https://payping.ir/@peymanmajidi
-
-
 
 
 Social Medias:
