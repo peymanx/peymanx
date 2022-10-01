@@ -18,26 +18,11 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>
 
 
-```
-$ whoami
-                       ░                                                       
- ██▓███  ▓█████▓██   ██▓ ███▄ ▄███▓ ▄▄▄      ███▄    █    ▒██   ██▒            
-▓██░  ██▒▓█   ▀ ▒██  ██▒▓██▒▀█▀ ██▒▒████▄    ██ ▀█   █    ▒▒ █ █ ▒░            
-▓██░ ██▓▒▒███    ▒██ ██░▓██    ▓██░▒██  ▀█▄ ▓██  ▀█ ██▒   ░░  █   ░            
-▒██▄█▓▒ ▒▒▓█  ▄  ░ ▐██▓░▒██    ▒██ ░██▄▄▄▄██▓██▒  ▐▌██▒    ░ █ █ ▒             
-▒██▒ ░  ░░▒████▒ ░ ██▒▓░▒██▒   ░██▒ ▓█   ▓██▒██░   ▓██░   ▒██▒ ▒██▒            
-▒▓▒░ ░  ░░░ ▒░ ░  ██▒▒▒ ░ ▒░   ░  ░ ▒▒   ▓▒█░ ▒░   ▒ ▒    ▒▒ ░ ░▓ ░            
-░▒ ░      ░ ░  ░▓██ ░▒░ ░  ░      ░  ▒   ▒▒ ░ ░░   ░ ▒░   ░░   ░▒ ░            
-░░          ░   ▒ ▒ ░░  ░      ░     ░   ▒     ░   ░ ░     ░    ░              
-            ░  ░░ ░            ░         ░  ░        ░     ░    ░              
-                ░ ░                                                            
-                ░ ░                                                                                                                     
 
-01110000 01100101 01111001 01101101 01100001 01101110 01011000 
-```
+<img align="right" width="250"  src="https://user-images.githubusercontent.com/110537772/193402292-e6a09d5c-0422-42e8-84a4-824ecf67661f.gif"/>
 
 
-<a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="300px"
+<a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="250px"
 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 
@@ -45,6 +30,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 Find My VIDEOS here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
 - [Aparat](https://www.aparat.com/peyman.majidi)  🎥
+<img align="right" width="250"  src="https://user-images.githubusercontent.com/110537772/193402331-bbb38c4e-a488-4914-88a2-9e588c2bba28.gif"/>
 
 
 Social Medias:
@@ -54,6 +40,8 @@ Social Medias:
 - [Facebook](https://www.facebook.com/Peymantv)
 - [Virgool](https://virgool.io/@peyman.majidi)
 
+
+
 Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
 
@@ -61,6 +49,7 @@ Wikicommon:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" width="50"  src="https://user-images.githubusercontent.com/110537772/193402335-572f333b-65c8-45cf-ac32-a1ff2c2e06d7.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,4 +61,9 @@ Wikicommon:
 <a href="https://www.youtube.com/c/peymanvideo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peymanvideo" height="30" width="40" /></a>
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
 </p>
+
+
+
+
+
 
