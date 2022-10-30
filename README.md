@@ -39,7 +39,7 @@ Social Medias:
 - [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
 - [Instagram](https://www.instagram.com/peymanmajidi.ir/)
 - [Facebook](https://www.facebook.com/Peymantv)
-- [Virgool](https://virgool.io/@peyman.majidi)
+- [Virgool](https://virgool.io/@peymanx)
 
 <img align="right" width="250"  src="https://user-images.githubusercontent.com/110537772/193402331-bbb38c4e-a488-4914-88a2-9e588c2bba28.gif"/>
 
