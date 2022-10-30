@@ -34,6 +34,7 @@ Find My VIDEOS here:
 
 
 Social Medias:
+- [My Discord](https://discord.gg/gfwMUBQrNH)
 - [StackOverflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile)
 - [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
 - [Instagram](https://www.instagram.com/peymanmajidi.ir/)
