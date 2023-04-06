@@ -8,6 +8,28 @@ This is my very new Github page
 My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place,   
 pixel by pixel, line of code by line of code, experience by experience. With passion!   
 
+```json
+{
+    "role": "programmer",
+    "exp": 14,
+    "skills": [
+        "C#",
+        "JS",
+        "Node",
+        "Python"
+    ],
+    "interests": [
+        "Learning New Things",
+        "Vlog",
+        "Music",
+        "Hiking",
+        "Traveling"
+    ],
+    "loc": "🇮🇷 IRAN"
+}
+
+```
+
 
 Here are some ideas to get you started:   
 
