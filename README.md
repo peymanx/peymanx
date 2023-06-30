@@ -2,10 +2,10 @@
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
 ## Hey, I am PEYMANx 
-<img align="right" width="250" height="200" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
+<img align="right" width="200" height="175" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
 
-This is my very new Github page  
-My vision is to touch, inspire and influence; through our ideas, services and products to make the world a better place,   
+This is my very **new** Github page  
+My vision is to touch, inspire and influence; through ideas, services and products to make the world a better place,   
 pixel by pixel, line of code by line of code, experience by experience. With passion!   
 
 ```json
@@ -31,7 +31,7 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
 ```
 
 
-Here are some ideas to get you started:   
+Here are some ideas to know me better:   
 
 - 🔭 I’m currently working on SECRET
 - 🌱 I’m currently learning HOW TO LIVE
