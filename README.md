@@ -18,12 +18,6 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
         "Node",
         "Python"
     ],
-    "OSes": [
-        "Microsoft Windows",
-        "Gnu/Linux",
-        "Apple macOS",
-        "Google Android"
-    ],
     "interests": [
         "Learning New Things",
         "Vlog",
