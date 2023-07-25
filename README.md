@@ -18,6 +18,12 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
         "Node",
         "Python"
     ],
+    "OSes": [
+        "Microsoft Windows",
+        "Gnu/Linux",
+        "Apple macOS",
+        "Google Android"
+    ],
     "interests": [
         "Learning New Things",
         "Vlog",
@@ -29,15 +35,25 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
 }
 
 ```
+![popular-programs-for-creating-pixel-art-768x384](https://github.com/peymanx/peymanx/assets/110537772/c11aba58-cf86-4d98-90ab-96dc0ba66c5e)
 
 
-Here are some ideas to know me better:   
 
-- 🔭 I’m currently working on SECRET
-- 🌱 I’m currently learning HOW TO LIVE
-- 📫 How to reach me: me@peymanmajidi.ir
-- ⚡ Fun fact: **If Github suspended my account again I will switch to Gitlab 4 ever**
-- 
+
+Projects
+========
+
+| **Project Title** | **Company** | **Description** |
+|---|---|---|
+| Auto Production and printing offside | Hamedan Traffic Control Center | If the car exceeds the speed limit, the license plate will be registered and a fine will be issued|
+| Smart Archive Warehouse| Tilco| store and archive all kinds of folders and physical zoners, by removing corridors and deep storage|
+| DWS System | RSA| Parcel Dimension, Weighting and Scanning system(Profiler) [📽 on Youtube](https://www.youtube.com/watch?v=_JFiVkYmac8)|
+| Pedestrian bridges monitoring and maintenance system | Hamadan Municipality | Monitoring and maintenance system of all pedestrian bridges in Hamadan, which are equipped with escalators and elevators; Each bridge is defined as a node in the system. |
+| Smart agriculture IoT| Adaptive AgroTech| By using IoT equipment, allows farmers to monitor soil moisture, temperature, light, and air pressure, and by analyzing data, increase crop productivity and prevent potential damage.|
+| Rota Parcel Sorter | RSA| First Parcel Sorter Ever at Iran. Able to sort 3000 parcels per hour in a fully mechanized and automatic system.Weighing and dimensioning in motion Major Client are Digikala, Bamilo, Saipa and Iran Post. [📽 on Youtube](https://www.youtube.com/watch?v=B8MTObuLd4Q&t=5s4)|
+| Crossbelt Sorter | RSA| The Second Great Sorting Center project in Iran Ability to sort 10K parcel per hour Crossbelt, The latest sorting and packing technology in the world Sorting is base on the destination, parcel delivery time, and placement in trailers via urban and traffic data. The first sorting center also made by us! [📽 on Youtube](https://www.youtube.com/watch?v=oxM4GwviEJ4)|
+
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
 
