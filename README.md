@@ -70,7 +70,7 @@ Social Medias:
 - [My Discord](https://discord.gg/gfwMUBQrNH)
 - [StackOverflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile)
 - [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
-- [Instagram](https://www.instagram.com/the.peyman.x/)
+- [Instagram](https://www.instagram.com/peymanmajidi.ir/)
 - [Facebook](https://www.facebook.com/Peymantv)
 - [Virgool](https://virgool.io/@peymanx)
 
