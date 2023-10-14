@@ -29,8 +29,8 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
 }
 
 ```
-![popular-programs-for-creating-pixel-art-768x384](https://github.com/peymanx/peymanx/assets/110537772/c11aba58-cf86-4d98-90ab-96dc0ba66c5e)
 
+![data-apha](https://github.com/peymanx/peymanx/assets/110537772/6c1737a7-bab0-44a8-9074-de6d66c6bb85)
 
 
 
@@ -48,12 +48,7 @@ Projects
 | Crossbelt Sorter | RSA| The Second Great Sorting Center project in Iran Ability to sort 10K parcel per hour Crossbelt, The latest sorting and packing technology in the world Sorting is base on the destination, parcel delivery time, and placement in trailers via urban and traffic data. The first sorting center also made by us! [📽 on Youtube](https://www.youtube.com/watch?v=oxM4GwviEJ4)|
 
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
-
-
-
-<img align="right" width="250"  src="https://user-images.githubusercontent.com/110537772/198869061-14a10b15-eca2-48ef-b623-7d6b2c47a4cc.gif"/>   
 
 
 <a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="250px"
@@ -77,14 +72,6 @@ Social Medias:
 <img align="right" width="180"  src="/mini.gif"/>
 
 
-
-
-
-Wikicommon:
-- [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -99,33 +86,8 @@ Wikicommon:
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
 </p>
 
-## I Like ASCII art!
-```
-           ______________________
-          /\  ________  ________ \
-         /  \ \______/\ \______/\ \
-        / /\ \ \  / /\ \ \  / /\ \ \
-       / / /\ \ \/ / /\ \ \/ / /\ \ \
-      / / /__\ \ \/_/__\_\ \/_/__\_\ \
-     / /_/____\ \  ________  ________ \
-    /  \ \____/  \ \______/\ \______/\ \
-   / /\ \ \  / /\ \ \  / /\ \ \  / /\ \ \
-  / / /\ \ \/ / /\ \ \/ / /\ \ \/ / /\ \ \
- / / /__\ \/ / /__\ \ \/_/__\_\ \/_/__\_\ \
-/ /_/___ \  /_/____\ \_____________________\
-\ \ \____/  \ \____/ / _______   _______   /
- \ \ \  / /\ \ \  / / /\ \  / / /\ \  / / /
-  \ \ \/ / /\ \ \/ / /\ \ \/ / /\ \ \/ / /
-   \ \/ / /__\ \/ / /__\_\/ / /__\_\/ / /
-    \  /_/____\  / /______\/ /______\/ /
-     \ \ \____/ / ________  ________  /
-      \ \ \  / / /\ \  / / /\ \  / / /
-       \ \ \/ / /\ \ \/ / /\ \ \/ / /
-        \ \/ / /__\_\/ / /__\_\/ / /
-         \  / /______\/ /______\/ /
-          \/_____________________/  PEYMANx
 
-```
+
 
 
 
