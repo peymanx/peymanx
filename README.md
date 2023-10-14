@@ -2,7 +2,6 @@
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
 ## Hey, I am peyman-x 
-<img align="right" width="200" height="175" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
 
 This is my very **new** Github page  
 My vision is to touch, inspire and influence; through ideas, services and products to make the world a better place,   
@@ -54,6 +53,7 @@ Projects
 <a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="250px"
 src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
+<img align="right" width="200" height="175" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
 
 
 Find My VIDEOS here:
