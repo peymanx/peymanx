@@ -85,6 +85,7 @@ Social Medias:
 <a href="https://www.youtube.com/@peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peymanvideo" height="30" width="40" /></a>
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
 </p>
+🄯 All Wrongs Reversed.  
 
 
 
