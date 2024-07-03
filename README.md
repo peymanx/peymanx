@@ -12,10 +12,11 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
     "role": "programmer",
     "exp": 14,
     "skills": [
-        "C#",
-        "JS",
-        "Node",
-        "Python"
+        "Web Developer",
+        "Windows App",
+        "Linux Expert",
+        "Mobile/Android Programmer",
+        "PLC"
     ],
     "interests": [
         "Learning New Things",
