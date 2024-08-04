@@ -1,11 +1,18 @@
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
-## Hey, I am peyman-x 
+## Peyman Majidi, MSc. Software developer   
+### M.Sc., University of Science And Culture, IRAN   
 
+**Research field**   
+Developing Applications, Dashboards, and APIs   
+
+I am skilled in Web, desktop, and mobile platforms. My main activity is providing logistics & intra- logistics solutions, making giant machines for sorting parcels and physically processing them. Known solutions like Cross-belt, sliding shoe sorter, Tilt-tray, Pop-up, and so on. As a YouTube blogger, I am interested in learning new things and spreading ideas; Uploaded +100 videos with original content on YouTube. (youtube.com/@peymanx)
+At Adaptive AgroTech, As a senior developer, I am responsible for saving and retrieving data, displaying graphs as web dashboards, and communicating with APIs all over the globe. This company operates in the field of digital agriculture. By using IoT equipment's allow farmers to monitor soil moisture, temperature, light, and air pressure, and by analyzing data, it increases product productivity and prevents possible damage. 
 This is my very **new** Github page  
 My vision is to touch, inspire and influence; through ideas, services and products to make the world a better place,   
 pixel by pixel, line of code by line of code, experience by experience. With passion!   
+
 
 ```json
 {
