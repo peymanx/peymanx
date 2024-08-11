@@ -3,14 +3,14 @@
 
 ## Peyman Majidi, MSc. Software developer   
 ### M.Sc., University of Science And Culture, IRAN   
+I possess expertise in developing solutions across **web**, **desktop**, and **mobile platforms**. My primary focus is on delivering advanced **logistics and intra-logistics solutions**, which includes the design and implementation of large-scale machinery for parcel sorting and physical processing. I am proficient in various sorting technologies such as **cross-belt sorters**, **sliding shoe sorters**, **tilt-trays**, and **pop-up sorters**, among others.
 
-**Research field**   
-Developing Applications, Dashboards, and APIs   
+In addition to my technical work, I am an active content creator on YouTube, where I am dedicated to exploring new topics and disseminating knowledge. I have produced and uploaded over **100 original videos** on YouTube, contributing to a broader understanding of technological and logistical concepts. For more information, please visit my YouTube channel: [youtube.com/@peymanx](https://www.youtube.com/@peymanx).
 
-I am skilled in Web, desktop, and mobile platforms. My main activity is providing logistics & intra- logistics solutions, making giant machines for sorting parcels and physically processing them. Known solutions like Cross-belt, sliding shoe sorter, Tilt-tray, Pop-up, and so on. As a YouTube blogger, I am interested in learning new things and spreading ideas; Uploaded +100 videos with original content on YouTube. (youtube.com/@peymanx)
-At Adaptive AgroTech, As a senior developer, I am responsible for saving and retrieving data, displaying graphs as web dashboards, and communicating with APIs all over the globe. This company operates in the field of digital agriculture. By using IoT equipment's allow farmers to monitor soil moisture, temperature, light, and air pressure, and by analyzing data, it increases product productivity and prevents possible damage. 
-This is my very **new** Github page  
-My vision is to touch, inspire and influence; through ideas, services and products to make the world a better place,   
+As a **seasoned developer** 💻 with extensive experience in **logistics** 🚚 and **industrial solutions** 🏭, I specialize in designing and implementing advanced **software** 🖥️ and **mechanized systems** ⚙️ to optimize operational efficiency. Over the past **seven years** 📅 at **Rahkarsazan Avan** 🏢, I have led **software development initiatives** 🚀 and managed complex projects such as **high-capacity parcel processing centers** 📦 and **mechanized postal envelope sorters** 📬. My expertise spans a range of technical domains, including **IoT applications** 🌐 for **digital agriculture** 🌾, **content creation** 🎥 for educational platforms, and **advanced sorting and archiving systems** 📚. With a strong background in both **hands-on development** 🛠️ and **strategic project management** 📊, I am dedicated to leveraging technology to enhance organizational workflows and deliver innovative solutions.
+
+
+My vision is to touch, inspire, and influence; through ideas, services and products to make the world a better place,   
 pixel by pixel, line of code by line of code, experience by experience. With passion!   
 
 
@@ -44,16 +44,18 @@ pixel by pixel, line of code by line of code, experience by experience. With pas
 Projects
 ========
 
-| **Project Title** | **Company** | **Description** |
-|---|---|---|
-| Auto Production and printing offside | Hamedan Traffic Control Center | If the car exceeds the speed limit, the license plate will be registered and a fine will be issued|
-| Smart Archive Warehouse| Tilco| store and archive all kinds of folders and physical zoners, by removing corridors and deep storage|
-| DWS System | RSA| Parcel Dimension, Weighting and Scanning system(Profiler) [📽 on Youtube](https://www.youtube.com/watch?v=_JFiVkYmac8)|
-| Pedestrian bridges monitoring and maintenance system | Hamadan Municipality | Monitoring and maintenance system of all pedestrian bridges in Hamadan, which are equipped with escalators and elevators; Each bridge is defined as a node in the system. |
-| Smart agriculture IoT| Adaptive AgroTech| By using IoT equipment, allows farmers to monitor soil moisture, temperature, light, and air pressure, and by analyzing data, increase crop productivity and prevent potential damage.|
-| Rota Parcel Sorter | RSA| First Parcel Sorter Ever at Iran. Able to sort 3000 parcels per hour in a fully mechanized and automatic system.Weighing and dimensioning in motion Major Client are Digikala, Bamilo, Saipa and Iran Post. [📽 on Youtube](https://www.youtube.com/watch?v=B8MTObuLd4Q&t=5s4)|
-| Crossbelt Sorter | RSA| The Second Great Sorting Center project in Iran Ability to sort 10K parcel per hour Crossbelt, The latest sorting and packing technology in the world Sorting is base on the destination, parcel delivery time, and placement in trailers via urban and traffic data. The first sorting center also made by us! [📽 on Youtube](https://www.youtube.com/watch?v=oxM4GwviEJ4)|
+# Work Experience
 
+| **Position**                           | **Company**                                    | **Location**      | **Dates**                     | **Details**                                                                                                                                                                        |
+|----------------------------------------|------------------------------------------------|-------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2017 - Present (7 years 2 months) | - Managed the software development unit and various projects. <br> - Notable projects: Parcel Processing Center 📦, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️. |
+| Senior Project Developer               | National Post Company of the Islamic Republic of Iran | Tehran, Iran      | March 2024 - June 2024 (3 months) | - Developed Iran's first fully mechanized postal envelope sorter 📬. <br> - Managed integration and created the software dashboard.                                                |
+| Content Creator                        | YouTube / Aparat                              | Tehran, Iran      | April 2020 - March 2024 (3 years 11 months) | - Produced and shared over 100 educational videos 🎥. <br> - Gained over 11,000 followers on Aparat 📈.                                                                                   |
+| Senior Software Consultant             | Adaptive Agrotech                             | Remote            | March 2020 - March 2022 (2 years) | - Developed IoT solutions for digital agriculture 🌾, including data analysis and self-driving tractors 🚜.                                                                             |
+| Project Manager / Senior Developer     | Rahkarsazan Avan                              | Isfahan, Iran     | January 2022 - February 2022 (1 month) | - Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.                                                                                                    |
+| Project Manager / Senior Developer     | Hamedan City Municipality                      | Hamedan, Iran     | September 2020 - November 2020 (2 months) | - Created a monitoring system for pedestrian bridges using IoT infrastructure 🌉.                                                                                                     |
+| Senior Developer                       | Tilco Sanat Gharb                             | Hamedan, Iran     | December 2015 - July 2017 (1 year 7 months) | - Developed the Smart Archive system for mechanized document storage and retrieval 📚.                                                                                              |
+| Web Designer / Developer               | Hooshmand Pardaz Sina Faraz                    | Hamedan, Iran     | April 2014 - March 2017 (2 years 11 months) | - Designed and developed various websites and digital assets 🌐.                                                                                                                       |
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
 
@@ -63,19 +65,20 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 
 <img align="right" width="200" height="175" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
 
+## 🎥 Find My Videos Here
 
-Find My VIDEOS here:
-- [Youtube](https://www.youtube.com/@peymanx) 🎥   
-- [Aparat](https://www.aparat.com/peyman.majidi)  🎥   
+- [YouTube](https://www.youtube.com/@peymanx) 🎬
+- [Aparat](https://www.aparat.com/peyman.majidi) 📹
 
+## 🌐 Social Media
 
-Social Medias:
-- [My Discord](https://discord.gg/gfwMUBQrNH)
-- [StackOverflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile)
-- [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
-- [Instagram](https://www.instagram.com/peymanmajidi.ir/)
-- [Facebook](https://www.facebook.com/Peymantv)
-- [Virgool](https://virgool.io/@peymanx)
+- [Discord](https://discord.gg/gfwMUBQrNH) 💬
+- [Stack Overflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile) 💡
+- [LinkedIn](http://www.linkedin.com/in/peyman-majidi-moein) 🔗
+- [Instagram](https://www.instagram.com/peymanmajidi.ir/) 📸
+- [Facebook](https://www.facebook.com/Peymantv) 👍
+- [Virgool](https://virgool.io/@peymanx) 📝
+
 
 <img align="right" width="180"  src="/mini.gif"/>
 
