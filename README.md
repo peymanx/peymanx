@@ -25,11 +25,15 @@ I am **PEYMAN-X**:
     "role": "programmer",
     "exp": 14,
     "skills": [
-        "Web Developer",
-        "Windows App",
+        "Web Developer - Designed and developed websites and digital assets",
+        "Windows App Development",
         "Linux Expert",
         "Mobile/Android Programmer",
-        "PLC"
+        "PLC Programming",
+        "Software Development - Managed software projects including Parcel Processing Center and Postal Sorter",
+        "IoT Development - Created solutions for digital agriculture and IoT monitoring systems",
+        "Content Creation - Produced 100+ educational videos and gained 11,000+ followers",
+        "Project Management - Led development of semi-mechanized sorting hub"
     ],
     "interests": [
         "Learning New Things",
