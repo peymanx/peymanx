@@ -3,7 +3,10 @@
 
 ## Peyman Majidi, MSc. Software developer   
 ### M.Sc., University of Science And Culture, IRAN   
-I possess expertise in developing solutions across **web**, **desktop**, and **mobile platforms**. My primary focus is on delivering advanced **logistics and intra-logistics solutions**, which includes the design and implementation of large-scale machinery for parcel sorting and physical processing. I am proficient in various sorting technologies such as **cross-belt sorters**, **sliding shoe sorters**, **tilt-trays**, and **pop-up sorters**, among others.
+I possess expertise in developing solutions across **web**, **desktop**, and **mobile platforms**. My primary focus is on delivering advanced **logistics and intra-logistics solutions**, which includes the design and implementation of large-scale machinery for parcel sorting and physical processing. I am proficient in various sorting technologies such as **cross-belt sorters**, **sliding shoe sorters**, **tilt-trays**, and **pop-up sorters**, among others.   
+
+My new Instgram Page:   
+https://www.instagram.com/the_peymanx   
 
 In addition to my technical work, I am an active content creator on YouTube, where I am dedicated to exploring new topics and disseminating knowledge. I have produced and uploaded over **100 original videos** on YouTube, contributing to a broader understanding of technological and logistical concepts. For more information, please visit my YouTube channel: [youtube.com/@peymanx](https://www.youtube.com/@peymanx).
 
@@ -85,7 +88,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 - [Discord](https://discord.gg/gfwMUBQrNH) 💬
 - [Stack Overflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile) 💡
 - [LinkedIn](http://www.linkedin.com/in/peyman-majidi-moein) 🔗
-- [Instagram](https://www.instagram.com/peymanmajidi.ir/) 📸
+- [Instagram](https://www.instagram.com/the_peymanx) 📸
 - [Facebook](https://www.facebook.com/Peymantv) 👍
 - [Virgool](https://virgool.io/@peymanx) 📝
 
@@ -101,7 +104,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 <a href="https://twitter.com/peymanmajidi_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peymanmajidi_ir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peyman-majidi-moein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peyman-majidi-moein" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4541097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4541097" height="30" width="40" /></a>
-<a href="https://instagram.com/peymanmajidi.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peymanmajidi.ir" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peymanmajidi.ir" height="30" width="40" /></a>
 <a href="https://dribbble.com/peymanmajidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peymanmajidi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peymanvideo" height="30" width="40" /></a>
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
