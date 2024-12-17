@@ -12,6 +12,9 @@ In addition to my technical work, I am an active content creator on YouTube, whe
 
 As a **seasoned developer** 💻 with extensive experience in **logistics** 🚚 and **industrial solutions** 🏭, I specialize in designing and implementing advanced **software** 🖥️ and **mechanized systems** ⚙️ to optimize operational efficiency. Over the past **seven years** 📅 at **Rahkarsazan Avan** 🏢, I have led **software development initiatives** 🚀 and managed complex projects such as **high-capacity parcel processing centers** 📦 and **mechanized postal envelope sorters** 📬. My expertise spans a range of technical domains, including **IoT applications** 🌐 for **digital agriculture** 🌾, **content creation** 🎥 for educational platforms, and **advanced sorting and archiving systems** 📚. With a strong background in both **hands-on development** 🛠️ and **strategic project management** 📊, I am dedicated to leveraging technology to enhance organizational workflows and deliver innovative solutions.
 
+╲╲╱╲╲╲╱╲╲╱╲╱╲╱╲╲╲╱╱╱╲╱╱╱╱╲╱╱╱╲╲╲╱╲╱╲╲╲╲╲╱╱╲╱╲╲╲╲╱╱╲╲╲╲╱╱╲╲╲╲╱╱╲╲╱╱╲╲╲╲╲╲╲╱╱╱╲╱╲╱╲╲╲╱╲╲╱╱╲╲╲╲╱╲╱╲╲╲╱╲╱╲╲╱╱╱╲╲╱╱╲╱╱╱╲╲╱╲╲╱╱╲╲╲╲╲╲╲╱╱╱╲╲╱╲╲╲╲╲╲╲╱╱╱╱╱╱╲╲╱╲╱╱╱╲╲╲╲╲╱╱╲╱╱╲╱╱╱╱╲╱╲╱╲╲╱╲╱╲╱╲╱╲╱╱╲╲╱╲╲╱╱╲╱╱╲╲╱╱╱╲╱╲╱╲╲╲╱╱╲╱╲╱╲╱╱╱╲╲╲╲╱╱╱╲╲╱╲╱╲╱╱╲╲╲╲╲╲╱╲╱╲╱╲╱╲╲╲╲╲╱╲╲╲╲╱╲╱╱╲╲╱╲╱╲╱╲╲╲╱╲╱╲╱╱╲╱╲╲╱╲╲╲╲╱╱╲╲╱╱╲╲╲╱╲╱╲╱╱╲╱╲╲╲╱╲...   
+
+
 Sure, here's your description with "I" statements to reflect that you are describing yourself:
 
 I am **PEYMAN-X**:  
@@ -51,6 +54,8 @@ I am **PEYMAN-X**:
 ```
 
 ![data-apha](https://github.com/peymanx/peymanx/assets/110537772/6c1737a7-bab0-44a8-9074-de6d66c6bb85)
+
+
 
 
 
