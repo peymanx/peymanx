@@ -129,7 +129,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 
 
 
-<img align="right" width="180"  src="/mushroom.gif"/>
+<img align="right" width="280"  src="/mushroom.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
