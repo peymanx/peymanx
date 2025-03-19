@@ -1,16 +1,11 @@
-![mushroom](https://github.com/user-attachments/assets/4b07537b-4e22-419f-a197-ddc240deffe0)
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
-## Peyman Majidi, MSc. Software developer   
+## Peyman Majidi Moein
 ### M.Sc., University of Science And Culture, IRAN   
-I possess expertise in developing solutions across **web**, **desktop**, and **mobile platforms**. My primary focus is on delivering advanced **logistics and intra-logistics solutions**, which includes the design and implementation of large-scale machinery for parcel sorting and physical processing. I am proficient in various sorting technologies such as **cross-belt sorters**, **sliding shoe sorters**, **tilt-trays**, and **pop-up sorters**, among others.   
 
-My new Instgram Page:   
-https://www.instagram.com/the_peymanx   
+I am **Peyman Majidi**, an MSc graduate in Software Engineering, working as a **freelancer** specializing in **logistics solutions**. My focus is on designing and implementing advanced systems for **parcel sorting** and **physical processing**. I work with various sorting technologies like **cross-belt sorters**, **sliding shoe sorters**, and **pop-up sorters**, among others. 
 
-In addition to my technical work, I am an active content creator on YouTube, where I am dedicated to exploring new topics and disseminating knowledge. I have produced and uploaded over **100 original videos** on YouTube, contributing to a broader understanding of technological and logistical concepts. For more information, please visit my YouTube channel: [youtube.com/@peymanx](https://www.youtube.com/@peymanx).
-
-As a **seasoned developer** 💻 with extensive experience in **logistics** 🚚 and **industrial solutions** 🏭, I specialize in designing and implementing advanced **software** 🖥️ and **mechanized systems** ⚙️ to optimize operational efficiency. Over the past **seven years** 📅 at **Rahkarsazan Avan** 🏢, I have led **software development initiatives** 🚀 and managed complex projects such as **high-capacity parcel processing centers** 📦 and **mechanized postal envelope sorters** 📬. My expertise spans a range of technical domains, including **IoT applications** 🌐 for **digital agriculture** 🌾, **content creation** 🎥 for educational platforms, and **advanced sorting and archiving systems** 📚. With a strong background in both **hands-on development** 🛠️ and **strategic project management** 📊, I am dedicated to leveraging technology to enhance organizational workflows and deliver innovative solutions.
+With a strong background in **software development** and **mechanized systems**, I aim to leverage technology to optimize operational workflows. I have extensive experience developing **IoT-based solutions** for **digital agriculture**, creating content on **YouTube** to share knowledge, and working on **advanced sorting and archiving systems**.
 
 ```
 ⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⢐⣡⣶⣿⣷⣖⣟⣶⣫⣢⢠⠦⣤⣀⡀⢀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀
@@ -88,23 +83,22 @@ I am **PEYMAN-X**:
 
 
 
+## Projects and Work Experience
 
-Projects
-========
+| **Project**                                   | **Position**                           | **Company**                                    | **Location**      | **Dates**                     | **Details**                                                                                                                                                                        |
+|-----------------------------------------------|----------------------------------------|------------------------------------------------|-------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Postal Envelope Sorting System v2**            | Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2025 - Present (6 months) | - Developed and managed software solutions for the mechanized postal envelope sorting system 📬. <br> - Involved in system design, software integration, and operational efficiency improvements. |
+| **Parcel Processing System**                  | Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2017 - Present (7 years 2 months) | - Managed the software development unit and various projects. <br> - Notable projects: Parcel Processing Center 📦, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️. |
+| **Fully Mechanized Postal Sorter**            | Senior Project Developer               | National Post Company of the Islamic Republic of Iran | Tehran, Iran      | March 2024 - June 2024 (3 months) | - Developed Iran's first fully mechanized postal envelope sorter 📬. <br> - Managed integration and created the software dashboard.                                                |
+| **Educational Content Creation**              | Content Creator                        | YouTube / Aparat                              | Tehran, Iran      | April 2020 - March 2024 (3 years 11 months) | - Produced and shared over 100 educational videos 🎥. <br> - Gained over 11,000 followers on Aparat 📈.                                                                                   |
+| **IoT Solutions for Digital Agriculture**     | Senior Software Consultant             | Adaptive Agrotech                             | Remote            | March 2020 - March 2022 (2 years) | - Developed IoT solutions for digital agriculture 🌾, including data analysis and self-driving tractors 🚜.                                                                             |
+| **Semi-Mechanized Sorting Hub**               | Project Manager / Senior Developer     | Tipax                              | Isfahan, Iran     | January 2022 - February 2022 (1 month) | - Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.                                                                                                    |
+| **Pedestrian Bridge Monitoring System**       | Project Manager / Senior Developer     | Hamedan City Municipality                      | Hamedan, Iran     | September 2020 - November 2020 (2 months) | - Created a monitoring system for pedestrian bridges using IoT infrastructure 🌉.                                                                                                     |
+| **Smart Document Archive System**             | Senior Developer                       | Tilco Sanat Gharb                             | Hamedan, Iran     | December 2015 - July 2017 (1 year 7 months) | - Developed the Smart Archive system for mechanized document storage and retrieval 📚.                                                                                              |
 
-# Work Experience
+---
 
-| **Position**                           | **Company**                                    | **Location**      | **Dates**                     | **Details**                                                                                                                                                                        |
-|----------------------------------------|------------------------------------------------|-------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2017 - Present (7 years 2 months) | - Managed the software development unit and various projects. <br> - Notable projects: Parcel Processing Center 📦, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️. |
-| Senior Project Developer               | National Post Company of the Islamic Republic of Iran | Tehran, Iran      | March 2024 - June 2024 (3 months) | - Developed Iran's first fully mechanized postal envelope sorter 📬. <br> - Managed integration and created the software dashboard.                                                |
-| Content Creator                        | YouTube / Aparat                              | Tehran, Iran      | April 2020 - March 2024 (3 years 11 months) | - Produced and shared over 100 educational videos 🎥. <br> - Gained over 11,000 followers on Aparat 📈.                                                                                   |
-| Senior Software Consultant             | Adaptive Agrotech                             | Remote            | March 2020 - March 2022 (2 years) | - Developed IoT solutions for digital agriculture 🌾, including data analysis and self-driving tractors 🚜.                                                                             |
-| Project Manager / Senior Developer     | Rahkarsazan Avan                              | Isfahan, Iran     | January 2022 - February 2022 (1 month) | - Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.                                                                                                    |
-| Project Manager / Senior Developer     | Hamedan City Municipality                      | Hamedan, Iran     | September 2020 - November 2020 (2 months) | - Created a monitoring system for pedestrian bridges using IoT infrastructure 🌉.                                                                                                     |
-| Senior Developer                       | Tilco Sanat Gharb                             | Hamedan, Iran     | December 2015 - July 2017 (1 year 7 months) | - Developed the Smart Archive system for mechanized document storage and retrieval 📚.                                                                                              |
-| Web Designer / Developer               | Hooshmand Pardaz Sina Faraz                    | Hamedan, Iran     | April 2014 - March 2017 (2 years 11 months) | - Designed and developed various websites and digital assets 🌐.                                                                                                                       |
-
+این نسخه از جدول شامل سطر جدیدی است که به پروژه سورت پاکت‌های نامه اختصاص دارد.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
 
 
