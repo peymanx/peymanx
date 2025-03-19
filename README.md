@@ -1,4 +1,4 @@
-
+![mushroom](https://github.com/user-attachments/assets/4b07537b-4e22-419f-a197-ddc240deffe0)
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
 ## Peyman Majidi, MSc. Software developer   
@@ -128,7 +128,8 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 - [Virgool](https://virgool.io/@peymanx) 📝
 
 
-<img align="right" width="180"  src="/mini.gif"/>
+
+<img align="right" width="180"  src="/mushroom.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
