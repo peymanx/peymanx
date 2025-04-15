@@ -98,7 +98,6 @@ I am **PEYMAN-X**:
 
 ---
 
-این نسخه از جدول شامل سطر جدیدی است که به پروژه سورت پاکت‌های نامه اختصاص دارد.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
 
 
