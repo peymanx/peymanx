@@ -116,7 +116,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 - [Discord](https://discord.gg/gfwMUBQrNH) 💬
 - [Stack Overflow](https://stackoverflow.com/users/4541097/peyman-majidi?tab=profile) 💡
 - [LinkedIn](http://www.linkedin.com/in/peyman-majidi-moein) 🔗
-- [Instagram](https://www.instagram.com/the_peymanx) 📸
+- [Instagram](https://www.instagram.com/peyman.jpeg) 📸
 - [Facebook](https://www.facebook.com/Peymantv) 👍
 - [Virgool](https://virgool.io/@peymanx) 📝
 
@@ -133,7 +133,7 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 <a href="https://twitter.com/peymanmajidi_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peymanmajidi_ir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peyman-majidi-moein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peyman-majidi-moein" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4541097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4541097" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peymanmajidi.ir" height="30" width="40" /></a>
+<a href="https://www.instagram.com/peyman.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peymanmajidi.ir" height="30" width="40" /></a>
 <a href="https://dribbble.com/peymanmajidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peymanmajidi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peymanvideo" height="30" width="40" /></a>
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
