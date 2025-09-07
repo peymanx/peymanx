@@ -78,7 +78,7 @@ I am **PEYMAN-X**:
 
 ```
 
-![data-apha](https://github.com/peymanx/peymanx/assets/110537772/6c1737a7-bab0-44a8-9074-de6d66c6bb85)
+![6d53e51ea3f52ba254e3ae6440d33f37](https://github.com/user-attachments/assets/591cc684-91e5-410b-ac11-28ba564c7597)
 
 
 
@@ -110,6 +110,9 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 
 - [YouTube](https://www.youtube.com/@peymanx) 🎬
 - [Aparat](https://www.aparat.com/peyman.majidi) 📹
+
+
+
 
 ## 🌐 Social Media
 
