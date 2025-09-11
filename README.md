@@ -78,7 +78,7 @@ I am **PEYMAN-X**:
 
 ```
 
-![6d53e51ea3f52ba254e3ae6440d33f37](https://github.com/user-attachments/assets/591cc684-91e5-410b-ac11-28ba564c7597)
+![Hand](hand.jpg)
 
 
 
