@@ -55,52 +55,75 @@ I am **PEYMAN-X**:
 | **X** | Xtraordinary | Unique and beyond standards; creating distinctive value. |
 
 
-```json
-{
-    "role": "programmer",
-    "exp": 14,
-    "skills": [
-        "Web Developer - Designed and developed websites and digital assets",
-        "Windows App Development",
-        "Linux Expert",
-        "Mobile/Android Programmer",
-        "PLC Programming",
-        "Software Development - Managed software projects including Parcel Processing Center and Postal Sorter",
-        "IoT Development - Created solutions for digital agriculture and IoT monitoring systems",
-        "Content Creation - Produced 100+ educational videos and gained 11,000+ followers",
-        "Project Management - Led development of semi-mechanized sorting hub"
-    ],
-    "interests": [
-        "Learning New Things",
-        "Vlog",
-        "Music",
-        "Hiking",
-        "Traveling"
-    ],
-    "loc": "🇮🇷 IRAN"
-}
+### 💻 Skills
 
-```
+- **🌐 Web Development:** Designed and developed websites and digital assets.  
+- **🪟 Windows App Development**.  
+- **🐧 Linux Expert**.  
+- **📱 Mobile/Android Programming**.  
+- **🤖 PLC Programming**.  
+- **💼 Software Development:** Managed software projects including Parcel Processing Center and Postal Sorter.  
+- **🌾 IoT Development:** Created solutions for digital agriculture and IoT monitoring systems.  
+- **🎥 Content Creation:** Produced 100+ educational videos and gained 11,000+ followers.  
+- **📊 Project Management:** Led development of a semi-mechanized sorting hub.  
 
+
+
+### 🎯 Interests
+
+- 📚 Learning new things  
+- 🎬 Vlogging  
+- 🎵 Music  
+- 🥾 Hiking  
+- ✈️ Traveling  
+  
 ![Hand](hand.jpg)
 
 
+## 🚀 Projects and Work Experience
+
+| **Project** | **Position** | **Company** | **Location** | **Dates** |
+|-------------|--------------|-------------|--------------|-----------|
+| Postal Envelope Sorting System v2 📬 | CTO | RSA | Tehran, Iran 🇮🇷 | July 2025 – Present (6 months) |
+| Parcel Processing System 📦 | CTO | RSA | Tehran, Iran 🇮🇷 | July 2017 – Present (7 years 2 months) |
+| Fully Mechanized Postal Sorter 🏭 | Senior Project Developer | National Post Company of the Islamic Republic of Iran | Tehran, Iran 🇮🇷 | March 2024 – June 2024 (3 months) |
+| Educational Content Creation 🎥 | Content Creator | YouTube / Aparat | Tehran, Iran 🇮🇷 | April 2020 – March 2024 (3 years 11 months) |
+| IoT Solutions for Digital Agriculture 🌾 | Senior Software Consultant | Adaptive Agrotech | Remote / Germany 🇩🇪 | March 2020 – March 2022 (2 years) |
+| Semi-Mechanized Sorting Hub ⚙️ | Project Manager | Tipax | Isfahan, Iran 🇮🇷 | January 2022 – February 2022 (1 month) |
+| Pedestrian Bridge Monitoring System 🌉 | Project Manager | Hamedan City Municipality | Hamedan, Iran 🇮🇷 | September 2020 – November 2020 (2 months) |
+| Smart Document Archive System 📚 | Senior Developer | Tilco Sanat Gharb | Hamedan, Iran 🇮🇷 | December 2015 – July 2017 (1 year 7 months) |
+
+### 📋 Details
+
+- **Postal Envelope Sorting System v2** 📬:  
+  • Developed and managed software solutions for the mechanized postal envelope sorting system.  
+  • Involved in system design ⚙️, software integration 💻, and operational efficiency improvements 📈.
+
+- **Parcel Processing System** 📦:  
+  • Managed the software development unit 🖥️ and various projects.  
+  • Notable projects: Parcel Processing Center 🏢, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️.
+
+- **Fully Mechanized Postal Sorter** 🏭:  
+  • Developed Iran’s first fully mechanized postal envelope sorter 📬.  
+  • Managed integration 🔗 and created the software dashboard 📊.
+
+- **Educational Content Creation** 🎥:  
+  • Produced and shared over 100 educational videos 📹.  
+  • Gained over 11,000 followers on Aparat 📈.
+
+- **IoT Solutions for Digital Agriculture** 🌾:  
+  • Developed IoT solutions for digital agriculture, including data analysis 📊 and self-driving tractors 🚜.
+
+- **Semi-Mechanized Sorting Hub** ⚙️:  
+  • Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.
+
+- **Pedestrian Bridge Monitoring System** 🌉:  
+  • Created a monitoring system for pedestrian bridges using IoT infrastructure 📡.
+
+- **Smart Document Archive System** 📚:  
+  • Developed the Smart Archive system for mechanized document storage and retrieval 🗄️.
 
 
-## Projects and Work Experience
-
-| **Project**                                   | **Position**                           | **Company**                                    | **Location**      | **Dates**                     | **Details**                                                                                                                                                                        |
-|-----------------------------------------------|----------------------------------------|------------------------------------------------|-------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Postal Envelope Sorting System v2**            | Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2025 - Present (6 months) | - Developed and managed software solutions for the mechanized postal envelope sorting system 📬. <br> - Involved in system design, software integration, and operational efficiency improvements. |
-| **Parcel Processing System**                  | Developer - Logistics                  | Rahkarsazan Avan                              | Tehran, Iran      | July 2017 - Present (7 years 2 months) | - Managed the software development unit and various projects. <br> - Notable projects: Parcel Processing Center 📦, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️. |
-| **Fully Mechanized Postal Sorter**            | Senior Project Developer               | National Post Company of the Islamic Republic of Iran | Tehran, Iran      | March 2024 - June 2024 (3 months) | - Developed Iran's first fully mechanized postal envelope sorter 📬. <br> - Managed integration and created the software dashboard.                                                |
-| **Educational Content Creation**              | Content Creator                        | YouTube / Aparat                              | Tehran, Iran      | April 2020 - March 2024 (3 years 11 months) | - Produced and shared over 100 educational videos 🎥. <br> - Gained over 11,000 followers on Aparat 📈.                                                                                   |
-| **IoT Solutions for Digital Agriculture**     | Senior Software Consultant             | Adaptive Agrotech                             | Remote            | March 2020 - March 2022 (2 years) | - Developed IoT solutions for digital agriculture 🌾, including data analysis and self-driving tractors 🚜.                                                                             |
-| **Semi-Mechanized Sorting Hub**               | Project Manager / Senior Developer     | Tipax                              | Isfahan, Iran     | January 2022 - February 2022 (1 month) | - Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.                                                                                                    |
-| **Pedestrian Bridge Monitoring System**       | Project Manager / Senior Developer     | Hamedan City Municipality                      | Hamedan, Iran     | September 2020 - November 2020 (2 months) | - Created a monitoring system for pedestrian bridges using IoT infrastructure 🌉.                                                                                                     |
-| **Smart Document Archive System**             | Senior Developer                       | Tilco Sanat Gharb                             | Hamedan, Iran     | December 2015 - July 2017 (1 year 7 months) | - Developed the Smart Archive system for mechanized document storage and retrieval 📚.                                                                                              |
-
----
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
 
