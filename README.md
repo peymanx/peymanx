@@ -43,13 +43,17 @@ With a strong background in **software development** and **mechanized systems**,
 ⡀⡀⡀⡀⡀⡀⡀⣀⣶⣿⣿⣿⣿⣿⣿⡀⣴⣿⣿⣿⣿⣷⣶⣄⡀⡀⡀⡀⡀⡀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
 ```
 I am **PEYMAN-X**:  
-- **P: Pioneer** - I am someone who leads the way and is often at the forefront of new ideas or ventures.  
-- **E: Energic** - I am full of energy and enthusiasm.  
-- **Y: Youth** - I embody a youthful spirit, regardless of my age.  
-- **M: Motivated** - I have a strong drive to achieve my goals.  
-- **A: Ambitious** - I set high aspirations for myself and strive to reach them.  
-- **N: Nerdy** - I have a deep interest in specific areas, often with a strong passion for knowledge.  
-- **X: Xpert** - I have expertise in my field, showcasing my skills and knowledge.  
+
+| **Letter** | **Word** | **Definition** |
+|------------|-----------|----------------|
+| **P** | Pioneer | Leading the way in discovering and creating innovative solutions. |
+| **E** | Expert | Possessing deep skills and knowledge in a specialized field. |
+| **Y** | Yen for Knowledge | Always eager to learn and explore new ideas for growth. |
+| **M** | Motivated | Highly driven and goal-oriented with determination. |
+| **A** | Adaptive | Flexible and quick to adjust to changes and challenges. |
+| **N** | Nerdy | Passionate and deeply engaged in specialized areas. |
+| **X** | Xtraordinary | Unique and beyond standards; creating distinctive value. |
+
 
 ```json
 {
