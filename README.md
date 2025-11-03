@@ -64,12 +64,10 @@ I am **PEYMAN-X**:
 - **🪟 Windows App Development**.  
 - **🐧 Linux Expert**.  
 - **📱 Mobile/Android Programming**.  
-- **🤖 PLC Programming**.  
 - **💼 Software Development:** Managed software projects including Parcel Processing Center and Postal Sorter.  
 - **🌾 IoT Development:** Created solutions for digital agriculture and IoT monitoring systems.  
-- **🎥 Content Creation:** Produced 100+ educational videos and gained 11,000+ followers.  
-- **📊 Project Management:** Led development of a semi-mechanized sorting hub.  
-
+- **🎥 Content Creation:** Produced 100+ tech-blog videos and gained 11,000+ followers up to now.  
+- **📊 Project Management:** Led development of a mechanized and semi-mechanized sorting hub.  
 
 
 ### 🎯 Interests
