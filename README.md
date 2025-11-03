@@ -1,11 +1,14 @@
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
 ## Peyman Majidi Moein
-### M.Sc., University of Science And Culture, IRAN   
 
-I am **Peyman Majidi**, an MSc graduate in Software Engineering, working as a **freelancer** specializing in **logistics solutions**. My focus is on designing and implementing advanced systems for **parcel sorting** and **physical processing**. I work with various sorting technologies like **cross-belt sorters**, **sliding shoe sorters**, and **pop-up sorters**, among others. 
+**M.Sc. in Software Engineering**  
+*University of Science and Culture, Iran*
 
-With a strong background in **software development** and **mechanized systems**, I aim to leverage technology to optimize operational workflows. I have extensive experience developing **IoT-based solutions** for **digital agriculture**, creating content on **YouTube** to share knowledge, and working on **advanced sorting and archiving systems**.
+I design and implement **advanced automation systems** for **parcel sorting** and **process optimization**, working with technologies like **cross-belt** and **sliding shoe sorters**.  
+With a strong background in **software development** and **mechanized systems**, I develop **IoT-based solutions**, create **educational content on YouTube**, and build **intelligent tools** to enhance **operational efficiency**.
+
+
 
 ```
 ⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⢐⣡⣶⣿⣷⣖⣟⣶⣫⣢⢠⠦⣤⣀⡀⢀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀
