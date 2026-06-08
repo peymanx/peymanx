@@ -1,14 +1,21 @@
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/110537772/185734878-d5a358d3-1cbd-4a00-bbc5-77e78c8e9651.png"/>  
 
-## Peyman Majidi Moein
+# PEYMAN MAJIDI
 
-**M.Sc. in Software Engineering**  
-*University of Science and Culture, Iran*
+**Software Engineer | Industrial Automation | Logistics Systems | IoT Architect**
 
-I design and implement **advanced automation systems** for **parcel sorting** and **process optimization**, working with technologies like **cross-belt** and **sliding shoe sorters**.  
-With a strong background in **software development** and **mechanized systems**, I develop **IoT-based solutions**, create **educational content on YouTube**, and build **intelligent tools** to enhance **operational efficiency**.
+## 🧠 SUMMARY
 
+Software engineer with **12+ years of experience** in designing and building:
 
+- Industrial automation systems (PLC + software integration)
+- High-throughput logistics & parcel sorting systems
+- IoT-based monitoring and smart infrastructure
+- Scalable backend systems and APIs
+- Technical leadership (CTO-level responsibilities)
+
+Focus: **connecting software systems with real-world industrial machines**
+
+---
 
 ```
 ⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⢐⣡⣶⣿⣷⣖⣟⣶⣫⣢⢠⠦⣤⣀⡀⢀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀
@@ -45,40 +52,83 @@ With a strong background in **software development** and **mechanized systems**,
 ⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⣀⣤⣾⣿⣿⠇⡀⡀⡀⠓⠚⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⡀⡀⡀⡀⡀⡀⡀⣀⣶⣿⣿⣿⣿⣿⣿⡀⣴⣿⣿⣿⣿⣷⣶⣄⡀⡀⡀⡀⡀⡀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
 ```
-I am **PEYMAN-X**:  
+---
 
-| **Letter** | **Word** | **Definition** |
-|------------|-----------|----------------|
-| **P** | Pioneer | Leading the way in discovering and creating innovative solutions. |
-| **E** | Expert | Possessing deep skills and knowledge in a specialized field. |
-| **Y** | Yen for Knowledge | Always eager to learn and explore new ideas for growth. |
-| **M** | Motivated | Highly driven and goal-oriented with determination. |
-| **A** | Adaptive | Flexible and quick to adjust to changes and challenges. |
-| **N** | Nerdy | Passionate and deeply engaged in specialized areas. |
-| **X** | Xtraordinary | Unique and beyond standards; creating distinctive value. |
+## I AM PEYMAN-X
 
+P → Pioneer           | Leading innovation in industrial automation systems  
+E → Expert            | Deep experience in software & system architecture  
+Y → Yen for Knowledge | Always learning and evolving technologies  
+M → Motivated         | Driven to solve complex engineering problems  
+A → Adaptive          | Flexible across software, hardware, and industrial systems  
+N → Nerdy             | Deep passion for technical systems  
+X → Xtraordinary      | Building beyond-standard engineering solutions  
 
-### 💻 Skills
-
-- **🌐 Web Development:** Designed and developed websites and digital assets.  
-- **🪟 Windows App Development**.  
-- **🐧 Linux Expert**.  
-- **📱 Mobile/Android Programming**.  
-- **💼 Software Development:** Managed software projects including Parcel Processing Center and Postal Sorter.  
-- **🌾 IoT Development:** Created solutions for digital agriculture and IoT monitoring systems.  
-- **🎥 Content Creation:** Produced 100+ tech-blog videos and gained 11,000+ followers up to now.  
-- **📊 Project Management:** Led development of a mechanized and semi-mechanized sorting hub.  
+---
 
 
-### 🎯 Interests
 
-- 📚 Learning new things  
-- 🎬 Vlogging  
-- 🎵 Music  
-- 🥾 Hiking  
-- ✈️ Traveling  
-  
-![Hand](hand.jpg)
+## ⚙️ CORE SKILLS
+
+| Category | Technologies |
+|----------|-------------|
+| Backend | .NET / ASP.NET Core, Node.js, Python |
+| Frontend | HTML, CSS, JavaScript |
+| Industrial Systems | PLC Integration, Automation Systems |
+| Databases | SQL Server, Entity Framework |
+| Infrastructure | Linux, Windows Server, IIS |
+| IoT | Sensor systems, ThingSpeak, telemetry |
+| Vision | OpenCV (Intermediate) |
+| Tools | Git, Visual Studio, VS Code |
+
+---
+
+## 💼 EXPERIENCE
+
+| Role | Company | Focus |
+|------|--------|------|
+| CTO / Software Lead | RSA | Logistics & sorting systems |
+| IoT Consultant | Adaptive Agrotech (Germany) | Smart agriculture systems |
+| Lead Developer | Iran Post | Fully automated postal sorting system |
+| Content Creator | YouTube / Aparat | Technical education (100+ videos) |
+| Senior Developer | Smart Archive Systems | RFID-based mechanized archive |
+
+---
+
+## 🚀 KEY PROJECTS
+
+| Project | Description |
+|--------|-------------|
+| 📦 Postal Sorting System | 12,000+ items/hour mechanized sorting system |
+| 📬 Iran Post Automation | First fully mechanized envelope sorter in Iran |
+| 🗄️ Smart Archive System | RFID + biometric document storage system |
+| 🌾 IoT Agriculture Platform | Environmental monitoring & analytics |
+| 🌉 Bridge Monitoring System | IoT-based infrastructure monitoring |
+| ⚙️ Sorting Hubs | Semi-mechanized logistics optimization systems |
+
+---
+
+## 🏭 SYSTEM ARCHITECTURE VIEW
+
+```
+
+Industrial Problem
+↓
+Hardware Layer (PLC / Sensors / Machines)
+↓
+Middleware (APIs / Control Systems)
+↓
+Backend Services (.NET / Node.js / Python)
+↓
+Monitoring Dashboard
+↓
+Optimization & Feedback Loop
+
+```
+
+---
+
+
 
 
 ## 🚀 Projects and Work Experience
@@ -94,50 +144,37 @@ I am **PEYMAN-X**:
 | Pedestrian Bridge Monitoring System 🌉 | Project Manager | Hamedan City Municipality | Hamedan, Iran 🇮🇷 | September 2020 – November 2020 (2 months) |
 | Smart Document Archive System 📚 | Senior Developer | Tilco Sanat Gharb | Hamedan, Iran 🇮🇷 | December 2015 – July 2017 (1 year 7 months) |
 
-### 📋 Details
+## 🏆 ACHIEVEMENTS
 
-- **Postal Envelope Sorting System v2** 📬:  
-  • Developed and managed software solutions for the mechanized postal envelope sorting system.  
-  • Involved in system design ⚙️, software integration 💻, and operational efficiency improvements 📈.
+- National Elite Worker Award – Ministry of Labour (2017)
+- Mentor at Sharif University Hackathon (Tourism Tech)
+- Member of Science & Technology Park
+- Contributor to national-scale industrial automation systems
 
-- **Parcel Processing System** 📦:  
-  • Managed the software development unit 🖥️ and various projects.  
-  • Notable projects: Parcel Processing Center 🏢, Mechanized Postal Envelope Sorter 📬, Semi-Mechanized Sorting Hub ⚙️.
+---
 
-- **Fully Mechanized Postal Sorter** 🏭:  
-  • Developed Iran’s first fully mechanized postal envelope sorter 📬.  
-  • Managed integration 🔗 and created the software dashboard 📊.
+## 🌐 LINKS
 
-- **Educational Content Creation** 🎥:  
-  • Produced and shared over 100 educational videos 📹.  
-  • Gained over 11,000 followers on Aparat 📈.
-
-- **IoT Solutions for Digital Agriculture** 🌾:  
-  • Developed IoT solutions for digital agriculture, including data analysis 📊 and self-driving tractors 🚜.
-
-- **Semi-Mechanized Sorting Hub** ⚙️:  
-  • Managed the development of a semi-mechanized sorting hub for Tipax Logistics 📦.
-
-- **Pedestrian Bridge Monitoring System** 🌉:  
-  • Created a monitoring system for pedestrian bridges using IoT infrastructure 📡.
-
-- **Smart Document Archive System** 📚:  
-  • Developed the Smart Archive system for mechanized document storage and retrieval 🗄️.
+| Platform | URL |
+|----------|-----|
+| GitHub | https://github.com/peymanx |
+| YouTube | https://youtube.com/@peymanx |
+| Aparat | https://www.aparat.com/peyman.majidi |
 
 
+---
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=peymanx&label=Profile%20views&color=0e75b6&style=flat" alt="peymanx" /> </p>   
+## 🧩 DESIGN PHILOSOPHY
 
+> “Bridge the gap between software intelligence and physical systems.”
 
-<a href="https://coffeebede.ir/buycoffee/peymanx"><img class="img-fluid" width="250px"
-src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+I build systems that:
 
-<img align="right" width="200" height="175" src="https://user-images.githubusercontent.com/110537772/185732616-769fd49c-82b6-4ccc-83db-408babca3313.gif"/>
+- operate under real industrial constraints
+- scale in logistics environments
+- connect hardware and software seamlessly
+- improve operational efficiency at scale
 
-## 🎥 Find My Videos Here
-
-- [YouTube](https://www.youtube.com/@peymanx) 🎬
-- [Aparat](https://www.aparat.com/peyman.majidi) 📹
 
 
 
@@ -168,10 +205,10 @@ src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-
 <a href="https://dribbble.com/peymanmajidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peymanmajidi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@peymanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peymanvideo" height="30" width="40" /></a>
 <a href="https://discord.gg/gfwMUBQrNH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gfwMUBQrNH" height="30" width="40" /></a>
-</p>
-🄯 All Wrongs Reversed.  
+</p>  
 
 
+(c) All Wrongs Reversed.  
 
 
 
