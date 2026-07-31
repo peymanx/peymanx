@@ -13,7 +13,23 @@ Software engineer with **12+ years of experience** in designing and building:
 - Scalable backend systems and APIs
 - Technical leadership (CTO-level responsibilities)
 
-Focus: **connecting software systems with real-world industrial machines**
+Focus: **connecting software systems with real-world industrial machines**  
+---   
+
+<img width="800" height="281" alt="peymanx-tetris" src="https://github.com/user-attachments/assets/7425c193-49c1-4fa4-8c84-15b18d61d97b" />
+
+
+---
+
+## I AM PEYMAN-X
+
+P → Pioneer           | Leading innovation in industrial automation systems  
+E → Expert            | Deep experience in software & system architecture  
+Y → Yen for Knowledge | Always learning and evolving technologies  
+M → Motivated         | Driven to solve complex engineering problems  
+A → Adaptive          | Flexible across software, hardware, and industrial systems  
+N → Nerdy             | Deep passion for technical systems  
+X → Xtraordinary      | Building beyond-standard engineering solutions  
 
 ---
 
@@ -52,17 +68,6 @@ Focus: **connecting software systems with real-world industrial machines**
 ⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⣀⣤⣾⣿⣿⠇⡀⡀⡀⠓⠚⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⡀⡀⡀⡀⡀⡀⡀⣀⣶⣿⣿⣿⣿⣿⣿⡀⣴⣿⣿⣿⣿⣷⣶⣄⡀⡀⡀⡀⡀⡀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
 ```
----
-
-## I AM PEYMAN-X
-
-P → Pioneer           | Leading innovation in industrial automation systems  
-E → Expert            | Deep experience in software & system architecture  
-Y → Yen for Knowledge | Always learning and evolving technologies  
-M → Motivated         | Driven to solve complex engineering problems  
-A → Adaptive          | Flexible across software, hardware, and industrial systems  
-N → Nerdy             | Deep passion for technical systems  
-X → Xtraordinary      | Building beyond-standard engineering solutions  
 
 ---
 
